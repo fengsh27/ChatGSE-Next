@@ -16,7 +16,8 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "sass": "^1.68.0"
+    "sass": "^1.68.0",
+    "zustand": "^4.4.3"
   },
   "devDependencies": {
     "@types/jest": "^29.5.5",
